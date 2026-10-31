@@ -11,10 +11,10 @@ I enjoy learning new technologies, developing practical skills, and improving my
 
 - Python
 - SQL
-- HTML & CSS
-- Flask
-- Django
-- PostgreSQL
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
 - Git & GitHub
 
 ### 🌱 Currently Learning
